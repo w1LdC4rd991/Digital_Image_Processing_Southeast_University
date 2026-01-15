@@ -1,2 +1,44 @@
-# Digital_Image_Processing_Southeast_University
-Sharing of Open-Book Examination Materials for the Undergraduate Course "Digital Image Processing" at Southeast University. 东南大学本科生课程《数字图像处理》开卷考试资料分享
+# Digital Image Processing - SEU Undergraduate Course Materials
+### 东南大学《数字图像处理》本科生课程考前资料分享
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![University](https://img.shields.io/badge/School-SEU-orange.svg)
+![Status](https://img.shields.io/badge/Status-Legacy-gray.svg)
+
+---
+
+## 👋 关于作者 (About Me)
+
+大家好，我是 **09023419 严伟琛**。本项目旨在整理并分享我在东南大学就读期间，针对本科课程 **《数字图像处理》** 开卷考试所整理的个人复习资料。
+
+## 📖 课程背景说明 (Course Context)
+
+《数字图像处理》曾是电子信息类专业的核心课程。然而，随着技术的快速更迭，该课程目前似乎已不再单独开设，或已深度融合进其他课程体系。
+
+**主要原因分析：**
+* **技术演进**：传统的数字图像处理方法（如复杂的形态学处理、人工算子设计等）在许多实际场景中，正逐渐被以卷积神经网络（CNN）为代表的 **人工智能 (AI)** 和深度学习手段所取代。
+* **教学改革**：为了紧跟学术与工业界前沿，教学重心已从底层算法实现转向更高级的计算机视觉（Computer Vision）应用。
+
+尽管如此，经典的图像处理理论（如频域分析、图像增强、压缩编码等）依然是理解现代视觉技术的底层逻辑。分享这些资料，希望能为对该领域感兴趣的学弟学妹提供一点参考。
+
+---
+
+## 📂 资料清单 (Contents)
+
+本仓库主要包含以下内容：
+* **核心知识点汇总**：针对开卷考试设计的快速索引大纲。
+* **往年参考资料**：个人搜集的复习题目及解析。
+
+## ⚖️ 免责声明 (Disclaimer)
+
+1. **学术用途**：本资料仅供学习交流使用，请勿用于商业用途。
+2. **时效性**：资料带有个人主观整理痕迹，部分内容可能因课程停办而与现行教学要求有所出入，请以最新教材为准。
+3. **版权说明**：如资料中涉及教材、课件等版权内容，请仅限个人学习使用。
+
+---
+
+> "The purpose of computing is insight, not numbers." —— Richard Hamming
+> 
+> **致敬那些在传统图像算法中钻研过的夜晚，也祝愿大家在人工智能时代开启新的篇章。**
+
+---
